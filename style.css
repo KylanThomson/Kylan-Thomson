@@ -17,13 +17,13 @@ a {
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
+  background-color: #0a192f;
 }
 
 
 .body {
   padding: 10%;
   margin-top: 0;
-  background-color: #0a192f;
 }
 
 div {
